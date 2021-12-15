@@ -15,7 +15,7 @@ O sistema deve ser capaz de controlar o agendamento, realização e pagamento do
 ![Modelo Conceitual](conceitual.jpg)
 
 ### Modelo Lógico
-![Modelo Logico](logico.jpg)
+![Modelo Logico](logico.png)
 
 [John Oliver]: <https://github.com/johnoliver23>
 [Tales Medeiros]: <https://github.com/Tales313>
